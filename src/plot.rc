@@ -1,0 +1,4 @@
+/*#include "C:\wxWidgets-2.8.0\include\wx\msw\wx.rc"
+#include "C:\wxWidgets-2.8.0\contrib\include\wx\plot\wxplot.rc"*/
+#include "wx\msw\wx.rc"
+#include "wxMathPlot\plotrc\wxplot.rc"
