@@ -8,9 +8,12 @@ The measurements were exploited as part of a thesis presented in 2011 by Dr Moun
 
 Technologies involved: C++/wxWidgets (Microsoft Visual Studio)
 
+## Important notice
+
+This project was created to fit a specific professional need and before becoming a web developer. Please take into account that this work does not reflect my present skills.
+
+**_This repository is not maintained._**
+
 ## License
 
 The sources files are now available freely under the MIT license. I hope this work will be useful.
-
-
-
